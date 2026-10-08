@@ -1,5 +1,5 @@
 Tired of using CMD / Powershell to check if the common ports are open on a site? Well I am.
-Let's check here, oh okay. Port 1.356.432 is closed, that's awesome.
+Let's check here, oh okay. Port 65,535 is closed, that's awesome.
 
 So I decides to build a quick tool to test them all in seconds, it ain't perfect but it sure as shit works. 
 
