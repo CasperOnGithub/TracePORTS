@@ -12,5 +12,8 @@ Installation & Usage:
 - Clone the repo (git clone https://github.com/CasperOnGithub/TracePORTS.git) and then (cd TracePORTS)
 - Run against a target, example:
 
-Example 1: python TracePORTS.py example.com
+Example 1: python TracePORTS.py scanme.nmap.org
+
+<img width="535" height="413" alt="image" src="https://github.com/user-attachments/assets/eb18b8a0-779b-4ffe-9269-32899635fd02" />
+
 
