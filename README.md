@@ -9,7 +9,7 @@ What it does:
 - Zero extra dependencies (booooring)
 
 Installation & Usage:
-- Clone the repo (git clone https://github.com/CasperOnGithub/TracePORTS.git) and then (cd TracePlugg)
+- Clone the repo (git clone https://github.com/CasperOnGithub/TracePORTS.git) and then (cd TracePORTS)
 - Run against a target, example:
 
 Example 1: python TracePORTS.py example.com
